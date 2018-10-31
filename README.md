@@ -1,2 +1,2 @@
-# Vue-Pracrice
+# Vue-Practice
 My practice of Vue.
