@@ -15,7 +15,7 @@
 export default {
 	data: function(){
 		return{
-			title: 'this is a tudo list',
+			title: 'this is a todo list',
 			items: [],
 			newItem: ''
 		}
